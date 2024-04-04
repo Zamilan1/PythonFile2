@@ -1,0 +1,4 @@
+tom& C:/Users/me/AppData/Local/Programs/Python/Python312/python.exe c:/Users/me/Desktop/display/score.py
+40
+NIkol
+100

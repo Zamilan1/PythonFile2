@@ -1,0 +1,17 @@
+name:                
+zed
+20
+zad
+30
+tom
+40
+Hat
+60
+Hulu
+70
+Tony
+100
+Sarah
+80
+Nikol
+68
